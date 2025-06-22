@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* Opcional: Personaliza tu tema aquí */
+@theme {
+  /* ... tus variables personalizadas ... */
+}
